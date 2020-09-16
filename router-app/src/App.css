@@ -1,0 +1,20 @@
+.products {
+  float: left;
+  padding: 10px;
+  width: 30%;
+  background: rgb(240, 240, 240);
+  margin-left: auto;
+}
+
+.ull {
+  list-style-type: none;
+    padding: 0px;
+    font-size: 15px;
+}
+
+.product {
+  padding: 0px 40%;
+  width: 50%;
+  margin: auto;
+  background: rgb(255, 255, 255);
+}
