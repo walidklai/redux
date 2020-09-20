@@ -1,0 +1,39 @@
+*{
+    background-color: rgb(29, 27, 27);
+}
+.counter{
+    background-color: rgb(66, 55, 55);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    align-self: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    color: wheat;
+    height: 50px;
+    margin-top: 20px;
+}
+.counter2{
+    background-color: rgb(46, 80, 64);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    align-self: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+    color: wheat;
+    height: 50px;
+    margin-top: 20px;
+}
+.buttons{
+    border-radius: 20px;
+    height: 50px;
+    transform: rotate(90deg);
+    background-color: unset;
+    color: wheat;
+    font-size: 25px;
+    border: none;
+
+}
